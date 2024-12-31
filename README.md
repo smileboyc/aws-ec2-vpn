@@ -11,5 +11,5 @@ npm install
 ```
 ### 项目运行
 ```
-npm run start
+node .\server.js 
 ```
